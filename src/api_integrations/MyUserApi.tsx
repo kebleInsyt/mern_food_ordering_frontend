@@ -1,4 +1,3 @@
-import { UserFormData } from "@/forms/user_profile_form/UserProfileForm";
 import { User } from "@/types";
 import { useAuth0 } from "@auth0/auth0-react";
 import { useMutation, useQuery } from "@tanstack/react-query";
